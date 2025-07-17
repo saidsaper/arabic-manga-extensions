@@ -1,11 +1,52 @@
-# Arabic Manga Extensions for Tachiyomi
+# Arabic Manga Extensions 🇸🇦📚
 
-This repo includes custom extensions for reading Arabic manga on Tachiyomi.
+مستودع غير رسمي لمصادر مواقع المانجا العربية لتطبيق Komikku.
 
-## Sources included:
-- AHottie (https://ahottie.net)
+## 🔗 رابط المستودع (للإضافة في Komikku):
 
-## How to use:
-1. Open Tachiyomi
-2. Go to **Extensions > Settings (⚙️) > Extension Sources**
-3. Add this URL:
+```
+https://raw.githubusercontent.com/saidsaper/arabic-manga-extensions/main/index.min.json
+```
+
+## 🧩 الإضافات المتاحة حالياً:
+
+- **📦 ManhuaFast**
+  - الموقع: https://manhuafast.net
+  - اللغة: العربية
+  - الملف: `apk/manhuafast-v1.0.0.apk`
+
+## 🛠️ طريقة الاستخدام في Komikku:
+
+1. افتح Komikku
+2. اذهب إلى الإضافات (Extensions)
+3. اضغط على "➕ Add from URL"
+4. الصق الرابط أعلاه
+5. اضغط "Add"
+
+ستظهر الإضافة ويمكنك التثبيت والقراءة مباشرة.
+
+---
+
+## 📁 هيكل المشروع:
+
+```
+arabic-manga-extensions/
+├── apk/
+│   └── manhuafast-v1.0.0.apk
+├── index.min.json
+└── README.md
+```
+
+---
+
+## ✨ ملاحظات:
+
+- المشروع يدعم إضافات جديدة لمواقع عربية
+- سيتم تحديث المستودع دوريًا بإضافات جديدة
+- يمكنك عمل Fork والمساهمة بإضافاتك
+
+---
+
+## 📬 تواصل:
+
+لو عندك موقع مانجا عربي وعايز نضيفه، تقدر تبعت Pull Request أو تكلمني على GitHub مباشرة.
