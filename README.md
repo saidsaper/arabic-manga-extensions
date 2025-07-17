@@ -7,13 +7,7 @@
 ```
 https://raw.githubusercontent.com/saidsaper/arabic-manga-extensions/main/index.min.json
 ```
-
-## 🧩 الإضافات المتاحة حالياً:
-
-- **📦 ManhuaFast**
-  - الموقع: https://manhuafast.net
-  - اللغة: العربية
-  - الملف: `apk/manhuafast-v1.0.0.apk`
+ 
 
 ## 🛠️ طريقة الاستخدام في Komikku:
 
