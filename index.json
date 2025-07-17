@@ -1,0 +1,14 @@
+{
+  "extensions": [
+    {
+      "name": "ArabManga",
+      "lang": "ar",
+      "pkg": "https://raw.githubusercontent.com/saidsaper/arabic-manga-extensions/main/arabmanga-v1.apk"
+    },
+    {
+      "name": "ManhuWar",
+      "lang": "ar",
+      "pkg": "https://raw.githubusercontent.com/saidsaper/arabic-manga-extensions/main/manhuwar-v1.apk"
+    }
+  ]
+}
