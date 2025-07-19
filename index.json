@@ -1,19 +1,27 @@
-[
-  {
-    "name": "Tachiyomi: AHottie",
-    "pkg": "eu.kanade.tachiyomi.extension.all.ahottie",
-    "apk": "tachiyomi-all.ahottie-v1.4.1.apk",
-    "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "AHottie",
-        "lang": "all",
-        "id": "6289731484943315811",
-        "baseUrl": "https://ahottie.net"
-      }
-    ]
-  }
-    ]
+{
+  "meta": {
+    "name": "Saeed's Arabic Manga Extensions",
+    "shortName": "Saeed",
+    "website": "https://saidsaper.github.io/arabic-manga-extensions",
+    "signingKeyFingerprint": ""
+  },
+  "extensions": [
+    {
+      "name": "Tachiyomi: AHottie",
+      "pkg": "eu.kanade.tachiyomi.extension.all.ahottie",
+      "apk": "tachiyomi-all.ahottie-v1.4.1.apk",
+      "lang": "all",
+      "code": 1,
+      "version": "1.4.1",
+      "nsfw": 1,
+      "sources": [
+        {
+          "name": "AHottie",
+          "lang": "all",
+          "id": "6289731484943315811",
+          "baseUrl": "https://ahottie.net"
+        }
+      ]
+    }
+  ]
+}
