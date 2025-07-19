@@ -1,14 +1,18 @@
-{
-  "extensions": [
-    {
-      "name": "ArabManga",
-      "lang": "ar",
-      "pkg": "https://raw.githubusercontent.com/saidsaper/arabic-manga-extensions/main/arabmanga-v1.apk"
-    },
-    {
-      "name": "ManhuWar",
-      "lang": "ar",
-      "pkg": "https://raw.githubusercontent.com/saidsaper/arabic-manga-extensions/main/manhuwar-v1.apk"
-    }
-  ]
-}
+[
+  {
+    "name": "Tachiyomi: AHottie",
+    "pkg": "eu.kanade.tachiyomi.extension.all.ahottie",
+    "apk": "tachiyomi-all.ahottie-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "AHottie",
+        "lang": "all",
+        "id": "6289731484943315811",
+        "baseUrl": "https://ahottie.net"
+      }
+    ]
+    ]
