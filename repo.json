@@ -1,4 +1,6 @@
 {
+  "meta": {
+
   "name": "Saeed's Arabic Manga Extensions",
   "shortName": "Saeed",
   "url": "https://saidsaper.github.io",
@@ -6,3 +8,5 @@
   "icon": "",
   "description": "Custom Arabic manga extensions maintained by Saeed."
 }
+}
+
