@@ -1,0 +1,12 @@
+[
+  {
+    "name": "MangaArabic",
+    "lang": "ar",
+    "pkg": "https://raw.githubusercontent.com/yourusername/komikku-arabic-extensions/main/extensions/mangaarabic-v1.0.zip"
+  },
+  {
+    "name": "ManhuWar",
+    "lang": "ar",
+    "pkg": "https://raw.githubusercontent.com/yourusername/komikku-arabic-extensions/main/extensions/manhuwar-v1.0.zip"
+  }
+]
