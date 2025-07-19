@@ -2,8 +2,7 @@
   "meta": {
     "name": "Saeed's Arabic Manga Extensions",
     "shortName": "Saeed",
-    "website": "https://saidsaper.github.io/arabic-manga-extensions",
-    "signingKeyFingerprint": ""
+    "website": "https://saidsaper.github.io/",
   },
   "extensions": [
     {
