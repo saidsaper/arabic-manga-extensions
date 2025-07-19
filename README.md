@@ -1,46 +1,21 @@
-# Arabic Manga Extensions 🇸🇦📚
+# MangaDex Extension for Komikku
 
-مستودع غير رسمي لمصادر مواقع المانجا العربية لتطبيق Komikku.
+## Installation
 
-## 🔗 رابط المستودع (للإضافة في Komikku):
+1. Copy the `mangadex_source.py` and this `README.md` into a zip file:
+   ```
+   zip mangadex_extension.zip mangadex_source.py README.md
+   ```
 
-```
-https://raw.githubusercontent.com/saidsaper/arabic-manga-extensions/main/index.min.json
-```
- 
+2. Transfer the zip file to your Android phone.
 
-## 🛠️ طريقة الاستخدام في Komikku:
+3. In the Komikku app:
+   - Go to **Extensions** → **Manual install**
+   - Tap and select the zip file → confirm installation
+   - You can now use MangaDex as a source!
 
-1. افتح Komikku
-2. اذهب إلى الإضافات (Extensions)
-3. اضغط على "➕ Add from URL"
-4. الصق الرابط أعلاه
-5. اضغط "Add"
+## Notes
 
-ستظهر الإضافة ويمكنك التثبيت والقراءة مباشرة.
-
----
-
-## 📁 هيكل المشروع:
-
-```
-arabic-manga-extensions/
-├── apk/
-│   └── manhuafast-v1.0.0.apk
-├── index.min.json
-└── README.md
-```
-
----
-
-## ✨ ملاحظات:
-
-- المشروع يدعم إضافات جديدة لمواقع عربية
-- سيتم تحديث المستودع دوريًا بإضافات جديدة
-- يمكنك عمل Fork والمساهمة بإضافاتك
-
----
-
-## 📬 تواصل:
-
-لو عندك موقع مانجا عربي وعايز نضيفه، تقدر تبعت Pull Request أو تكلمني على GitHub مباشرة.
+- This extension uses the official MangaDex API.
+- Supports English and Arabic titles and chapters.
+- You can contribute or extend features using the base provided.
